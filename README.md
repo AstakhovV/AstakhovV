@@ -15,6 +15,4 @@ Skills: REACT / JS / HTML / CSS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AstakhovV&show_icons=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/AstakhovV)  
-
 ![Profile views](https://gpvc.arturio.dev/AstakhovV)  
